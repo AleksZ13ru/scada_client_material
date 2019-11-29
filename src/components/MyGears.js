@@ -71,7 +71,7 @@ export default function MyGears() {
                             subheader="September 2019"
                         />
                         <CardContent>
-                            <QueryResult />
+                            {/*<QueryResult />*/}
                             <Canvas />
                             <Table className={classes.table} aria-label="simple table">
                                 <TableHead>
